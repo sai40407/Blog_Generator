@@ -1,0 +1,7 @@
+langchain
+langchain-community
+langchain-groq
+langgraph
+fastapi
+uvicorn
+watchdog
